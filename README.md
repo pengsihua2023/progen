@@ -1,5 +1,5 @@
 ## ProGen: Language Modeling for Protein Engineering
-
+### 目录： /scratch/sp96859/ProGen2/progen/progen2
 Suite of open-sourced projects and models for protein engineering and design.
 
 ### License
