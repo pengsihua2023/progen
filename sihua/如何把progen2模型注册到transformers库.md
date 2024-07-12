@@ -3,7 +3,6 @@
 
 ```python
 from transformers import AutoModel, AutoConfig  # 从 transformers 库导入 AutoModel 和 AutoConfig 类
-from transformers import AutoConfig, PretrainedConfig  # 重复导入 AutoConfig，并导入 PretrainedConfig 类
 
 import sys  # 导入 sys 模块，用于访问与 Python 解释器交互的功能
 sys.path.insert(0, 'D:/progen/progen/progen2')  # 在 Python 模块搜索路径的最前面添加指定路径，以便导入模块
